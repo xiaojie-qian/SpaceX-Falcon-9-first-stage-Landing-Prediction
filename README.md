@@ -6,10 +6,5 @@ In this case study, we will predict if the Falcon 9 first stage will land succes
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing_1.gif)
 </br>
 </br>
-Several examples of an unsuccessful landing are shown here:
-</br>
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash.gif)
-</br>
-</br>
 Most unsuccessful landings are planned. Space X performs a controlled landing in the oceans.
 </br>
