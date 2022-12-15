@@ -9,3 +9,10 @@ In this case study, we will predict if the Falcon 9 first stage will land succes
 </br>
 Most unsuccessful landings are planned. Space X performs a controlled landing in the oceans.
 </br>
+Methodology:
+- Collection data from API and web page
+- Data Wrangling: transforming and mapping data
+- Exploratory data analysis (EDA) by using SQL 
+- Exploratory data analysis (EDA) by visualization
+- Interactive visual analytics and create dashboards
+- Predictive analysis by machine learning 
