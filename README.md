@@ -17,3 +17,5 @@ Most unsuccessful landings are planned. Space X performs a controlled landing in
 - Interactive visual analytics and create dashboards
 - Predictive analysis by machine learning 
 - Final report (PPT and PDF)
+
+<Fin>
