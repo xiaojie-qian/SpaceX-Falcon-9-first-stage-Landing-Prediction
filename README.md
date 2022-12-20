@@ -16,3 +16,4 @@ Most unsuccessful landings are planned. Space X performs a controlled landing in
 - Exploratory data analysis (EDA) by visualization
 - Interactive visual analytics and create dashboards
 - Predictive analysis by machine learning 
+- Final report (PPT and PDF)
